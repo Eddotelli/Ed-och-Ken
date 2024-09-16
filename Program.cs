@@ -6,6 +6,9 @@
         {
             Console.WriteLine("YOOOOOO KEN!!!!");
             Console.WriteLine("What's poppin my duuuude^^");
+
+            Console.WriteLine("Ey det är maxfett!");
+            Console.WriteLine("Själv då kingo?");
         }
     }
 }
