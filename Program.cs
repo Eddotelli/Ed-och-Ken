@@ -14,6 +14,9 @@
 
             //Eddie's kommentar
             Console.WriteLine("All good in the hood bruv!");
+
+            //Ken's kommentar
+            Console.WriteLine("Funkar det eller inte?");
         }
     }
 }
