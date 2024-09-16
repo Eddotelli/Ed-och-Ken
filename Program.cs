@@ -9,6 +9,8 @@
 
             Console.WriteLine("Ey det är maxfett!");
             Console.WriteLine("Själv då kingo?");
+
+            Console.WriteLine("All good in the hood bruv!");
         }
     }
 }
